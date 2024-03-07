@@ -1,0 +1,6 @@
+numpy==1.26.4
+pandas==2.2.1
+pydeck==0.8.0
+Requests==2.31.0
+streamlit==1.28.2
+xgboost==2.0.3
